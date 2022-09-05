@@ -1,0 +1,72 @@
+body{
+    background-color:lightblue;
+}
+#textdiv{
+    margin:auto;
+    width: 80%;
+    background-color:#A7C8E7;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border:1px solid black;
+    border-radius: 3px;
+}
+#inputtext{
+    margin-left:10%;
+    width: 70%;
+    height: 40px;
+    font-size:25pt;
+    border-radius: 3px;
+}
+#divzaman{
+    height: 36px;
+    padding-top:6px;
+    text-align: center;
+    background-color:navy;
+    border:1px solid black;
+    border-radius: 3px;
+    font-size:21pt;
+    color:white;
+    width: 6%;
+    margin-left: 81%;
+    margin-top:-45px;
+}
+#divrestart{
+    background-color:lightblue;
+    width: 4%;
+    height: 36px;
+    padding-top:6px;
+    border:1px solid black;
+    text-align: center;
+    font-size:20px;
+    margin-left: 88%;
+    margin-top:-45px;
+    border-radius:3px;
+}
+#dis{
+    font-size: 30pt;
+    text-align: center;
+    border-radius: 3px;
+    position:absolute;
+    
+}
+#endisdiv{
+    position: relative;
+    background-color:white;
+    border:3px solid black;
+    width: 80%;
+    height: 150px;
+    margin:auto;
+    overflow:hidden;
+}
+#divsonuc{
+    border:1px solid black;
+    width:300px;
+    height: 300px;
+    margin:auto;
+    margin-top:20px;
+    font-weight: bold;
+    font-size: 20pt;
+    text-align:center;
+    background-color:white;
+    display:none;
+}
